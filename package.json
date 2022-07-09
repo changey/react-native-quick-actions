@@ -1,5 +1,5 @@
 {
-  "name": "react-native-quick-actions",
+  "name": "@changey/react-native-quick-actions",
   "version": "0.3.14",
   "description": "A react-native interface for Touch 3D home screen quick actions",
   "repository": {
